@@ -1,0 +1,6 @@
+opencv-contrib-python
+pillow
+pytesseract
+playsound
+pyautogui
+opencv-python
